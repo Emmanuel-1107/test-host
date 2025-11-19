@@ -58,7 +58,7 @@ nav a:hover,nav a.active{
 .head-container {
     height: 30vh;
     width: 100%;
-    background-image: url(/imgs/konwaricoder.jpg); 
+    background-image: url(imgs/konwaricoder.jpg); 
     background-position: 50%;
 }
 .text{

@@ -66,7 +66,7 @@ nav a:hover,nav a.active{
 .head-container {
     height: 30vh;
     width: 100%;
-    background-image: url(/imgs/pexels-freestocks-1122528.jpg); 
+    background-image: url(imgs/pexels-freestocks-1122528.jpg); 
     background-position: 30%;
 }
 .about-container{
