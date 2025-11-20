@@ -6,5 +6,6 @@
 #### [✔ ] Some facts about me
 #### [✔ ] Achievements 
 #### [✔]Social Media Accounts
+#### [✔]Miss na si Nicole
 
 
